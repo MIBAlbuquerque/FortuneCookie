@@ -1,7 +1,3 @@
-function funciona() {
-  console.log("Funcionou");
-}
-
 // Constantes
 
 const screen1 = document.querySelector(".screen1");
